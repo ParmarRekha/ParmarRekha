@@ -1,25 +1,29 @@
-# 👋 Hi there! I'm Rekha Parmar
+ 👋 Hi there! I'm Rekha Parmar
 
-🎓 I’m currently pursuing *BCA* at Atmiya University  
-💡 Passionate about learning *technology, coding, and data science*  
-📚 Currently learning *Python, and Microsoft Office*  
-🧾 CCC Certified | Good with *MS Excel and Word*
+🎓 I'm currently pursuing *BCA* at Atmiya University, Rajkot  
+💡 Passionate about learning *Data Science, **Python, and **Technology*  
+📚 Currently exploring *Python, **MS Excel, and **GitHub Projects*  
+✅ *CCC Certified* | Skilled in Microsoft Word & Excel
 
 ---
 
-### 🛠 Skills:
-- 🐍 Python (beginner)
+## 🔧 Skills:
+- 🐍 Python (Beginner)
 - 📊 MS Excel & Word
-- 📋 Computer Basics
+- 💻 Computer Basics
 
 ---
 
-### 📬 Contact Me:
-📍 Currently in **Rajkot**,GUjarat
-📧 Email: [parmarrekha6862@gmail.com](mailto:parmarrekha6862@gmail.com)  
+## 📫 Contact Me:
+- 📍 Location: Rajkot, Gujarat, India  
+- 📧 Email: parmarrekha6862@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/parmarrekha](https://www.linkedin.com/in/parmarrekha)
 
 ---
 
-### 🌟 Fun Fact:
-I'm new to tech but excited to grow and build real projects soon!
+## ✨ Fun Fact:
+I’m new to tech but excited to grow and build real-world projects soon!
 
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to check out my repositories and 
