@@ -17,7 +17,6 @@
 ### 📬 Contact Me:
 📍 Currently in **Rajkot**,GUjarat
 📧 Email: [parmarrekha6862@gmail.com](mailto:parmarrekha6862@gmail.com)  
-📱 Phone: 9327880698
 
 ---
 
