@@ -26,4 +26,4 @@ I’m new to tech but excited to grow and build real-world projects soon!
 
 ---
 
-⭐ Thanks for visiting my GitHub profile! Feel free to check out my repositories and 
+⭐ Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect with me.
