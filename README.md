@@ -1,29 +1,85 @@
- 👋 Hi there! I'm Rekha Parmar
+# 👋 Hi, I'm Rekha Parmar
 
-🎓 I'm currently pursuing *BCA* at Atmiya University, Rajkot  
-💡 Passionate about learning *Data Science, **Python, and **Technology*  
-📚 Currently exploring *Python, **MS Excel, and **GitHub Projects*  
-✅ *CCC Certified* | Skilled in Microsoft Word & Excel
+## 💫 About Me
 
----
+I'm a BCA student at Atmiya University, Rajkot, India, with a passion for software development and continuous learning. I enjoy building web applications, exploring new technologies, and solving real-world problems through programming.
 
-## 🔧 Skills:
-- 🐍 Python (Beginner)
-- 📊 MS Excel & Word
-- 💻 Computer Basics
+- 🎓 BCA Student at Atmiya University
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning Data Science and enhancing my Python skills
+- 🚀 Interested in Web Development, Software Development, and Database Management
 
 ---
 
-## 📫 Contact Me:
-- 📍 Location: Rajkot, Gujarat, India  
-- 📧 Email: parmarrekha6862@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/parmarrekha](https://www.linkedin.com/in/parmarrekha)
+## 🛠️ Technical Skills
+
+### Programming Languages
+- PHP
+- Python
+- Java
+- JavaScript
+
+### Web Technologies
+- HTML5
+- CSS3
+- Bootstrap
+- Laravel
+
+### Database
+- MySQL
+- DBMS
+- SQL
+
+### Tools
+- Git
+- GitHub
+- XAMPP
+- VS Code
+- NetBeans
 
 ---
 
-## ✨ Fun Fact:
-I’m new to tech but excited to grow and build real-world projects soon!
+## 📂 Featured Project
+
+### 🎯 Placement Preparation Portal
+
+A web application built using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap to help students prepare for placements.
+
+### Features
+- 📚 Study Notes
+- ❓ MCQs
+- 📝 Mock Tests
+- 📊 Progress Tracking
+- 👤 Student Registration & Login
+- 📱 Responsive Design
 
 ---
 
-⭐ Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect with me.
+## 🌱 Currently Learning
+
+- Data Science
+- Python for Data Science
+- Git & GitHub Best Practices
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Software Engineer by developing innovative, scalable, and user-friendly applications while continuously learning and contributing to meaningful projects.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:**  
+parmarrekha6862@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/parmar-rekha-92623b32b
+
+🐙 **GitHub:**  
+https://github.com/ParmarRekha
+
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
